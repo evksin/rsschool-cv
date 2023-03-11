@@ -2,8 +2,6 @@
 
 ### Junior Frontend Developer
 
-==========================
-
 ## Contact information:
 
 **Location:** Russia, Kerch
@@ -52,4 +50,4 @@ function multiply(a, b){
 ### Languages:
 
 * Russian - Native
-* English - A2 (I study English on the course https://academy.irina-kolosova.com/)
+* English - A2 (I study English on the [course] (https://academy.irina-kolosova.com/))
