@@ -29,7 +29,7 @@ function multiply(a, b){
 ## Education:
 **University:** Kharkiv National University of Radio Electronics, Radio engineer
 * **Courses:**
-    * [Python for beginners] (https://letpy.com/)
+    * [Python for beginners](https://letpy.com/)
 * **Books:** Head First JavaScript Programming: A Brain-Friendly Guide
 
 ## Languages:
